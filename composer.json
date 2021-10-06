@@ -1,0 +1,6 @@
+{
+    "require": {
+        "php-webdriver/webdriver": "^1.11",
+        "chrome-php/chrome": "^1.1"
+    }
+}
